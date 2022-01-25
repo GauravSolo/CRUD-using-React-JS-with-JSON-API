@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+
+div.container-fluid{
+    min-height: 100vh;
+    background-color: rgb(197, 172, 172);
+}
+
+
+.addBox{
+    height: 500px;
+    box-shadow: 5px 5px 10px grey,
+                -5px -5px 10px grey   ;
+    border-radius: 20px;
+}
+
+.viewBox{
+    min-height: 500px;
+    box-shadow: 5px 5px 10px grey,
+                -5px -5px 10px grey   ;
+    border-radius: 20px;
+}
+
+i{
+    cursor : pointer;
+    margin-right: 20px;
+}

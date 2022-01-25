@@ -1,0 +1,16 @@
+div#textarea{
+    display: flex;
+    min-height: 38px;
+    width: 256px;
+    background-color: #e9ecef;
+    border-radius: 2px;
+    word-wrap: break-word;
+}
+.expand{
+    height: 500px;
+    box-shadow: 5px 5px 10px grey,
+                -5px -5px 10px grey   ;
+    border-radius: 20px;
+    padding: 30px 0px;
+    margin-bottom: 50px;
+}
